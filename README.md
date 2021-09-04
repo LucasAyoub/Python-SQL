@@ -1,6 +1,6 @@
 # Python-SQL-NoSQL
 
-## Bancos de Dados usados:
+## Used Databases:
 
 * MySQL
 * PostgreSQL
